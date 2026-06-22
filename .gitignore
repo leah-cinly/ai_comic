@@ -1,0 +1,12 @@
+﻿.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian/plugins/realclaudian/data.json
+.claudian/sessions/
+.claude/local/
+.trash/
+*.tmp
+*.log
+desktop.ini
+
+.obsidian/plugins/
