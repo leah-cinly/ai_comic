@@ -1,4 +1,4 @@
-﻿# Codex 与 Claudian 配置
+# Codex 与 Claudian 配置
 
 ## 推荐填写的 CLI 路径
 
